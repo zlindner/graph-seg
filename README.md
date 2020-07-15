@@ -7,3 +7,7 @@ An implementation of the unsupervised text segmentation algorithm proposed by [G
 ## Algorithm Description
 
 TODO
+
+## Usage
+
+TODO
